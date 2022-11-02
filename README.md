@@ -14,10 +14,10 @@ I'm Yingpeng Ma, a programmer who likes to read novels 👨‍💻
 - 🔭 I’m currently working on FinNLP and XAI  
 
 
-- 🎓 I’m studying Computer Science, computer programming and Mathematics (and maybe a little bit of Finance
+- 🎓 I’m studying Computer Science, computer programming and Mathematics
   
 
-- ⚡ Fun fact: The charm of words guides me to become interested in Natural Language Processing  
+- ⚡ Fun fact: The charm of words guides me to become interested in Natural Language Processing
   
   
 - 📫 How to reach me: mayingpeng33[at]gmail[dot]com
