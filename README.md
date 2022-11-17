@@ -14,7 +14,7 @@ I'm Yingpeng Ma, a programmer who likes to read novels 👨‍💻
 - 🔭 I’m currently working on FinNLP and XAI  
 
 
-- 🎓 I’m studying Computer Science, computer programming and Mathematics
+- 🎓 I’m studying Computer Science and computer programming
   
 
 - ⚡ Fun fact: The charm of words guides me to become interested in Natural Language Processing
