@@ -5,22 +5,16 @@
 ## Hi there 👋
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-I'm Yingpeng Ma, a programmer who likes to read novels 👨‍💻 
+I'm Yingpeng MA, a NLP beginner 👨‍💻 
 
 
-- 🚀 I want to do some meaningful research and write an interesting novel (maybe in the future 
+- 🚀 I want to do some meaningful research 
 
 
-- 🔭 I’m currently working on FinNLP and XAI  
-
-
-- 🎓 I’m studying Computer Science and computer programming
-  
-
-- ⚡ Fun fact: The charm of words guides me to become interested in Natural Language Processing
+- 🎓 I’m currently working on Trustworthy AI and Causality
   
   
-- 📫 How to reach me: mayingpeng33[at]gmail[dot]com
+- 📫 How to reach me: mayingpeng33 AT gmail DOT com
 
 
 - 😄 My website: https://yingpengma.github.io//
