@@ -14,7 +14,7 @@ I'm Yingpeng MA, a NLP beginner 👨‍💻
 - 🎓 I’m currently working on Trustworthy AI and Causality
   
   
-- 📫 How to reach me: mayingpeng33 AT gmail DOT com & mayingpeng AT westlake DOT edu DOT cn
+- 📫 How to reach me: mayingpeng AT westlake DOT edu DOT cn
 
 
 - 😄 My website: https://yingpengma.github.io//
