@@ -8,13 +8,13 @@
 I'm Yingpeng MA, a NLP beginner 👨‍💻 
 
 
-- 🚀 I want to do some meaningful research 
+- 🚀 I would like to conduct meaningful research.
 
 
-- 🎓 I’m currently working on Trustworthy AI and Causality
+- 🎓 I am currently conducting research on Trustworthy AI and Causality.
   
   
-- 📫 How to reach me: mayingpeng AT westlake DOT edu DOT cn
+- 📫 How to reach me: mayingpeng [AT] westlake [DOT] edu [DOT] cn
 
 
 - 😄 My website: https://yingpengma.github.io//
