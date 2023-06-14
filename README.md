@@ -11,7 +11,7 @@ I'm Yingpeng MA, a NLP beginner 👨‍💻
 - 🚀 I would like to conduct meaningful research
 
 
-- 🎓 I am currently conducting research on Data-centric AI
+- 🎓 I am currently conducting research on LLM
   
   
 - 📫 How to reach me: mayingpeng [AT] westlake [DOT] edu [DOT] cn
