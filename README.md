@@ -1,17 +1,17 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 80%" />
+<img src="Github.jpg" align="center" style="width: 100%" />
 </div>  
 
 ## Hi there 👋
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<img align="right" alt="GIF" src="gif3.gif" width="500"/>
 
 I'm Yingpeng MA, a NLP beginner 👨‍💻 
 
 
-- 🚀 I would like to conduct meaningful research
+- 🚀 Eager to conduct meaningful research
 
 
-- 🎓 I am currently conducting research on LLM
+- 🎓 Currently researching works related to LLM
   
   
 - 📫 How to reach me: mayingpeng [AT] westlake [DOT] edu [DOT] cn
