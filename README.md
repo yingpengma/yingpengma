@@ -3,7 +3,6 @@
 </div>  
 
 ## Hi there 👋
-<img align="right" alt="GIF" src="gif3.gif" width="500"/>
 
 I'm Yingpeng MA, a NLP beginner 👨‍💻 
 
@@ -26,7 +25,6 @@ I'm Yingpeng MA, a NLP beginner 👨‍💻
 
 <a href="https://github.com/yingpengma">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=yingpengma&theme=buefy&show_icons=true" />
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yingpengma&theme=buefy&layout=compact" />
 </a>
 
 <br/>
