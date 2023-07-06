@@ -7,16 +7,16 @@
 I'm Yingpeng MA, a NLP beginner 👨‍💻 
 
 
-- 🚀 Eager to conduct meaningful research
+- 🚀 Passionate about conducting meaningful research
 
 
-- 🎓 Currently researching works related to LLM
+- 🎓 Currently exploring works related to large language models (LLM)
   
   
-- 📫 How to reach me: mayingpeng [AT] westlake [DOT] edu [DOT] cn
+- 📫 Contact me at: mayingpeng [AT] westlake [DOT] edu [DOT] cn
 
 
-- 😄 My website: https://yingpengma.github.io//
+- 😄 Visit my website: https://yingpengma.github.io/
 
 
 ## Stats  
