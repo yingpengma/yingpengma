@@ -4,6 +4,8 @@
 
 ## Hi there 👋
 
+**[[Homepage](https://yingpengma.github.io/)] [[Google Scholar](https://scholar.google.com/citations?user=Qrghm1QAAAAJ)]  [[Research Gate](https://www.researchgate.net/profile/Yingpeng-Ma-2)]  [[Zhihu](https://www.zhihu.com/people/youngpoole)]**
+
 I'm Yingpeng MA, a NLP beginner 👨‍💻 
 
 
@@ -17,6 +19,15 @@ I'm Yingpeng MA, a NLP beginner 👨‍💻
 
 
 - 😄 Visit my website: https://yingpengma.github.io/
+
+## ⚡  **News**: 
+_Our new work **[FinTrust](https://github.com/yingpengma/FinTrust)** has been accepted to **ACL 2023 main** conference._
+
+<img src='https://github.com/yingpengma/yingpengma.github.io/blob/main/images/FinTrust.png' height="50%" width="50%">
+
+## 🌱 **My Repositories**
+|**[Awesome-Story-Generation](https://github.com/yingpengma/Awesome-Story-Generation)**|**[FinTrust](https://github.com/yingpengma/FinTrust)**|
+|:---:|:---:|
 
 
 ## Stats  
