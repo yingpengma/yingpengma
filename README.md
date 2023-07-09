@@ -21,7 +21,7 @@ I'm Yingpeng MA, an NLP beginner 👨‍💻
 - 😄 Visit my website: https://yingpengma.github.io/
 
 ## ⚡ **News**
-_**May 2023:** Our new work, **[FinTrust](https://github.com/yingpengma/FinTrust)**, has been accepted to **ACL 2023 main** conference._
+_**May 2023:** Our new work, **[FinTrust](https://github.com/yingpengma/FinTrust)**, has been accepted by **ACL 2023 main** conference._
 
 <img src='https://github.com/yingpengma/yingpengma.github.io/blob/main/images/FinTrust.png' height="50%" width="50%">
 
