@@ -6,22 +6,22 @@
 
 **[[Homepage](https://yingpengma.github.io/)] [[Google Scholar](https://scholar.google.com/citations?user=Qrghm1QAAAAJ)]  [[Research Gate](https://www.researchgate.net/profile/Yingpeng-Ma-2)]  [[Zhihu](https://www.zhihu.com/people/youngpoole)]**
 
-I'm Yingpeng MA, a NLP beginner 👨‍💻 
+I'm Yingpeng MA, an NLP beginner 👨‍💻 
 
 
-- 🚀 Passionate about conducting meaningful research
+- 🚀 Driven by a passion for conducting impactful research
 
 
-- 🎓 Currently exploring works related to large language models (LLM)
+- 🎓 Currently delving into large language models (LLM) and their applications
   
   
-- 📫 Contact me at: mayingpeng [AT] westlake [DOT] edu [DOT] cn
+- 📫 Contact me: mayingpeng [AT] westlake [DOT] edu [DOT] cn
 
 
 - 😄 Visit my website: https://yingpengma.github.io/
 
 ## ⚡ **News**
-_**2023.05:** Our new work **[FinTrust](https://github.com/yingpengma/FinTrust)** has been accepted to **ACL 2023 main** conference._
+_**May 2023:** Our new work, **[FinTrust](https://github.com/yingpengma/FinTrust)**, has been accepted to **ACL 2023 main** conference._
 
 <img src='https://github.com/yingpengma/yingpengma.github.io/blob/main/images/FinTrust.png' height="50%" width="50%">
 
