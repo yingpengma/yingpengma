@@ -4,7 +4,7 @@
 
 ## 👋 **Hi there**
 
-**[[Homepage](https://yingpengma.github.io/)] [[Google Scholar](https://scholar.google.com/citations?user=Qrghm1QAAAAJ)] [[Semantic Scholar](https://www.semanticscholar.org/author/Yingpeng-Ma/2217921041) [[Research Gate](https://www.researchgate.net/profile/Yingpeng-Ma-2)]  [[Zhihu](https://www.zhihu.com/people/youngpoole)]**
+**[[Homepage](https://yingpengma.github.io/)] [[Google Scholar](https://scholar.google.com/citations?user=Qrghm1QAAAAJ)] [[Semantic Scholar]](https://www.semanticscholar.org/author/Yingpeng-Ma/2217921041) [[Research Gate](https://www.researchgate.net/profile/Yingpeng-Ma-2)]  [[Zhihu](https://www.zhihu.com/people/youngpoole)]**
 
 I'm Yingpeng MA, an NLP beginner 👨‍💻 
 
