@@ -15,7 +15,7 @@ I'm Yingpeng MA, an NLP beginner 👨‍💻
 - 🎓 Currently delving into large language models (LLM) and their applications
   
   
-- 📫 Contact me: mayingpeng [AT] westlake [DOT] edu [DOT] cn
+- 📫 Contact me: mayingpeng [AT] gmail [DOT] com
 
 
 - 😄 Visit my website: https://yingpengma.github.io/
