@@ -12,7 +12,7 @@ I'm Yingpeng MA, an NLP beginner 👨‍💻
 - 🚀 Driven by a passion for conducting impactful research
 
 
-- 🎓 Currently delving into large language models (LLM) and their applications
+- 🎓 Currently delving into large language models (LLMs) and their applications
   
   
 - 📫 Contact me: mayingpeng [AT] gmail [DOT] com
