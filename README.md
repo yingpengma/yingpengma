@@ -26,8 +26,8 @@ _**May 2023:** Our new work, **[FinTrust](https://github.com/yingpengma/FinTrust
 <img src='https://github.com/yingpengma/yingpengma.github.io/blob/main/images/FinTrust.png' height="50%" width="50%">
 
 ## 🌱 **My Repositories**
-|**[Awesome-Story-Generation](https://github.com/yingpengma/Awesome-Story-Generation)**|**[Awesome-LLM-Characters](https://github.com/yingpengma/Awesome-LLM-Characters)**|**[FinTrust](https://github.com/yingpengma/FinTrust)**|
-|:---:|:---:|:---:|
+|**[Awesome-Story-Generation](https://github.com/yingpengma/Awesome-Story-Generation)**|**[FinTrust](https://github.com/yingpengma/FinTrust)**|
+|:---:|:---:|
 
 
 ## ⭐ **Stats**  
