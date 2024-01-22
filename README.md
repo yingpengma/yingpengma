@@ -2,23 +2,15 @@
 <img src="Github.jpg" align="center" style="width: 100%" />
 </div>  
 
-## 👋 **Hi there**
+## 👋 **Hi there, I'm Yingpeng MA**
 
-**[[Homepage](https://yingpengma.github.io/)] [[Google Scholar](https://scholar.google.com/citations?user=Qrghm1QAAAAJ)] [[Semantic Scholar](https://www.semanticscholar.org/author/Yingpeng-Ma/2217921041)] [[Research Gate](https://www.researchgate.net/profile/Yingpeng-Ma-2)]  [[Zhihu](https://www.zhihu.com/people/youngpoole)]**
-
-I'm Yingpeng MA, an NLP beginner 👨‍💻 
-
-
-- 🚀 Driven by a passion for conducting impactful research
-
-
-- 🎓 Currently delving into large language models (LLMs) and their applications
+|**[Homepage](https://yingpengma.github.io/)**|**[Google Scholar](https://scholar.google.com/citations?user=Qrghm1QAAAAJ)**|**[Semantic Scholar](https://www.semanticscholar.org/author/Yingpeng-Ma/2217921041)**|**[Zhi Hu](https://www.zhihu.com/people/youngpoole)**|**[Research Gate](https://www.researchgate.net/profile/Yingpeng-Ma-2)**|
+|:---:|:---:|:---:|:---:|:---:|
   
-  
-- 📫 Contact me: mayingpeng [AT] gmail [DOT] com
+📫 Contact me: mayingpeng [AT] gmail [DOT] com
 
 
-- 😄 Visit my website: https://yingpengma.github.io/
+🚀 Visit my website: https://yingpengma.github.io/
 
 ## ⚡ **News**
 _**May 2023:** Our new work, **[FinTrust](https://github.com/yingpengma/FinTrust)**, has been accepted by **ACL 2023 main** conference._
