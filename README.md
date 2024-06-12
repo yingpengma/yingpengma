@@ -7,7 +7,7 @@
 |**[Homepage](https://yingpengma.github.io/)**|**[Google Scholar](https://scholar.google.com/citations?user=Qrghm1QAAAAJ)**|**[Semantic Scholar](https://www.semanticscholar.org/author/Yingpeng-Ma/2217921041)**|**[Zhi Hu](https://www.zhihu.com/people/youngpoole)**|**[Research Gate](https://www.researchgate.net/profile/Yingpeng-Ma-2)**|
 |:---:|:---:|:---:|:---:|:---:|
   
-📫 Contact me: mayingpeng [AT] gmail [DOT] com
+📫 Contact me: mayingpeng33 [AT] gmail [DOT] com
 
 
 🚀 Visit my website: https://yingpengma.github.io/
@@ -21,6 +21,7 @@ _**May 2023:** Our new work, **[FinTrust](https://github.com/yingpengma/FinTrust
 |**[Awesome-Story-Generation](https://github.com/yingpengma/Awesome-Story-Generation)**|**[FinTrust](https://github.com/yingpengma/FinTrust)**|
 |:---:|:---:|
 
+[![Star History Chart](https://api.star-history.com/svg?repos=yingpengma/Awesome-Story-Generation,yingpengma/FinTrust&type=Date)](https://star-history.com/#yingpengma/Awesome-Story-Generation&yingpengma/FinTrust&Date)
 
 ## ⭐ **Stats**  
 
