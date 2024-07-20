@@ -5,7 +5,7 @@
 ## 👋 **Hi there, I'm Yingpeng MA**
 
 |**[Homepage](https://yingpengma.github.io/)**|**[Google Scholar](https://scholar.google.com/citations?user=Qrghm1QAAAAJ)**|**[Semantic Scholar](https://www.semanticscholar.org/author/Yingpeng-Ma/2217921041)**|**[Research Gate](https://www.researchgate.net/profile/Yingpeng-Ma-2)**|
-|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|
   
 📫 Contact me: mayingpeng33 [AT] gmail [DOT] com
 
