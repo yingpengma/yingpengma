@@ -21,17 +21,7 @@ _**May 2023:** Our new work, **[FinTrust](https://github.com/yingpengma/FinTrust
 |**[Awesome-Story-Generation](https://github.com/yingpengma/Awesome-Story-Generation)**|**[FinTrust](https://github.com/yingpengma/FinTrust)**|
 |:---:|:---:|
 
-<div style="width: 50%;">
-  <a href="https://star-history.com/#yingpengma/Awesome-Story-Generation&yingpengma/FinTrust&Date">
-    <img src="https://api.star-history.com/svg?repos=yingpengma/Awesome-Story-Generation,yingpengma/FinTrust&type=Date" alt="Star History Chart" style="width: 50%;">
-  </a>
-</div>
-
-## ⭐ **Stats**  
-
-<a href="https://github.com/yingpengma">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=yingpengma&theme=buefy&show_icons=true" />
-</a>
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yingpengma&show_icons=true&count_private=true)
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=yingpengma&&style=flat-square" align="center" />
