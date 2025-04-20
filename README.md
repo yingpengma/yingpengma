@@ -1,5 +1,5 @@
 <div align="center">
-<img src="github.png" align="center" style="width: 100%" />
+<img src="github.png" align="center" style="width: 90%" />
 </div>  
 
 ## 👋 **Hi there, I'm Yingpeng MA**
